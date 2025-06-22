@@ -128,7 +128,7 @@ Messié, M. & Chavez, F. P. (2011). A global analysis of ENSO synchrony: The oce
 
 👤 Author
 
-Your NameGitHub: @ameyagumaste Email: ameyagumaste@gmail.com
+ GitHub: @ameyagumaste Email: ameyagumaste@gmail.com
 
 🌟 How to Support
 
